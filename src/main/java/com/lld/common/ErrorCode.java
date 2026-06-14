@@ -1,0 +1,13 @@
+package com.lld.common;
+
+public enum ErrorCode {
+    NOT_FOUND,
+    INVALID_INPUT,
+    CONFLICT,
+    UNAUTHORIZED,
+    INSUFFICIENT_FUNDS,
+    OUT_OF_STOCK,
+    RATE_LIMIT_EXCEEDED,
+    POOL_EXHAUSTED,
+    OPERATION_FAILED
+}
