@@ -12,11 +12,10 @@ Design a chess game engine skeleton that maintains board state, records moves, v
 4. Stub advanced validation — piece-specific movement rules marked as TODO
 5. Capture opponent pieces when moving to an occupied square
 6. Expose game state: current turn, move history, board snapshot
+7.  Check, checkmate, and stalemate detection
+8.Castling, en passant, pawn promotion
 
 ## Out of Scope
-
-- Check, checkmate, and stalemate detection
-- Castling, en passant, pawn promotion
 - AI opponent and move suggestion
 - Network multiplayer and clock/time controls
 
